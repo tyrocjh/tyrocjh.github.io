@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "iconfont";
+  src: url('/static/iconfont/iconfont.ttf?t=1585291800155') format('truetype'),
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAToAAsAAAAACTgAAAScAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDOAqFQIRsATYCJAMYCw4ABCAFhG0HVBsOCMgekiRQEgkRqRSSAooWFjz/v47/fe7cmScgkWz82WhgdMLqRHrpMxH/l3P9YYq1xYJZMPXKioV0knr6QlZdC6wd3U/syaX/wsX3HVxT19Q2zAOay8ciwiODBjjBAUW0lch4E8dZxK6brR5M4GkIYE8wyaCS2mYVuKARJwkgMwaeARePGZ3AEWx1VsRKDbIXHLFV8x3uALDH+L18gExxARSmAeLMhrEaHZS/jhlIwdP+b2OYZoUZ1TmB2zowgEQADTIT6R4DW8FEMPafeBlZALZSPwWv4waSBlL+/ydajHQoTlsc6S8PTAw0ggKxQFQ7ErVGZU6aRMEdTSwcGEATByMamgQYEWiSUIUCwKpwhB3wEpBkRHoiSiWpRHtklL1nEJUVRCktC2I1qn0Pbz4M12oOPHx0K0+r3Xpr4Y1Qtfr0jQf341Xqzeqn7BtrHaLt1qhGqQdppz/SPn/uq9JqYM191ZMXzDa58wJkTlc4HIw7mI6Up26HyDbfyfE4ey8cqywLErkD05P4gwv7psXryP5pvRO37Vvgx61Z4KNaDYO37Vc4oOkH4xS790/bJ7cH1j9afuZuGI4/uP3AdH+Ux59A0CFdtXssPIhE4Xfi0sL9gYA4eTtbnrjTQXbHozJ1l+biI/TwoebJE9XTpyNlpdpE3Y95/vz91OAt13U3dFvFekdgeVfk/VVr53sU+9QU59wIG3p5a3X9odc6YsfGFPvWeFbNj9kl8n6XX/mZb/62b6YkKO39OHr5i4RoiPWoZCX8OuDSZzc1WKtXO0XKqA8339n51qvu5pGWKRn+z6cYukDjAuRf87J8dvZMLYe/Ewoyjd6DnanguRmYce2KVwalOiKyqnXD1sPSp1EZ1VD00UZxMX2d/fZI+5cf+fZQ4c5TXbsozvMWjIkY67XnrBcHK45tUIaN9cVw0XaZFP41/ZsQ4Fp7DaBVr7HUTkHGo3gkcEN5/Nhyio/m4MDUTEP03Qv23gsXkqONBXjZxUvLMHPevoTR89LFZe3TaO8yhxmHaV5pAgIumkYz/WESwP//T9EaT7P84j4cZrhRDd7x4Us4DABjBSdcR5dxecSDuX6PnK8uChkAvDp1NYBqqpFcDJLMkqtGpRsh/JF/ZaLZ0m/L/40apQwBLGorwTSlvWSD6yUK7rysSuuV2Q+CrUdyA4UNQWBgSyRRUxPBxIEUsLAlH+xJoG69Ax6IYES7AsQzm4HgylFQOHMLDFy5QdTUF2DizVuwcBUM9rSJx44ORItBXiwSRiI6uns8bWAFKyfbJLmZ2Un40WZGdMsMnoaIPQYPnZGa7o/UESsRq5jTM4bPlCSO5kTBQtey84jZLNA2UTASVkrVS5KtMC2Ni3pTKitYQE4xIgQGCYIOmm7GQ2OARcAKp3WWkAe+3wmBZzRmGMSEhh9xDQSRHgzd02SQSnoGYp3amqlhV/r3MAaeTCQkOG4ch4iABZpaOAlmKShAY4seZoTAIpGKvoDfRiFp1I7Lqk5tXmtZgditBfE+SxwQRjLkiJyQM9gu64XRLGPlXcaIdZzBPEQ2xLAm2YRgIU7LhBFZPQA=') format('woff2');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconcollect:before {
+  content: "\e62b";
+}
+
+.iconshare:before {
+  content: "\e62d";
+}
+
+.iconback:before {
+  content: "\e628";
+}
+
+.iconhome:before {
+  content: "\e629";
+}
+
+.iconsearch:before {
+  content: "\e627";
+}
